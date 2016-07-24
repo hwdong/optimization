@@ -17,5 +17,5 @@
   
 #Levenberg-Marquardt method:
   ![equation](http://latex.codecogs.com/gif.latex? 2 \\cdot  ( \\boldsymbol{J}(\\boldsymbol{x}_k) \\boldsymbol{J}(\\boldsymbol{^*_k})+
-  \\lmbda diag\\boldsymbol{J}(\\boldsymbol{x}_k) \\boldsymbol{J}(\\boldsymbol{^*_k}) )
+  \\lambda diag\\boldsymbol{J}(\\boldsymbol{x}_k) \\boldsymbol{J}(\\boldsymbol{^*_k}) )
   \\delta_{\\boldsymbol{x}_k}  =  -2 \\cdot \\boldsymbol{J}(\\boldsymbol{x}_k)^T \\boldsymbol{F}(\\boldsymbol{x}_k) )
