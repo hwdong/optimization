@@ -11,4 +11,4 @@
 
 # Gauss-Newton method:
    
-   ![equation](http://latex.codecogs.com/gif.latex?  \\delta_{\\boldsymbol{x^*_k}} = \underset{\\boldsymbol{x}_k}{\mathrm{argmin}}  \\| \\boldsymbol{F}(\\boldsymbol{x}_k) +\\boldsymbol{J}(\\boldsymbol{x}_k) \\cdot \\delta_{\\boldsymbol{x}_k} \\|_2^2  )
+   ![equation](http://latex.codecogs.com/gif.latex?  \\delta_{\\boldsymbol{x^*_k}} = \\underset{\\boldsymbol{x}_k}{\\mathrm{argmin}}  \\| \\boldsymbol{F}(\\boldsymbol{x}_k) +\\boldsymbol{J}(\\boldsymbol{x}_k) \\cdot \\delta_{\\boldsymbol{x}_k} \\|_2^2  )
