@@ -1,4 +1,4 @@
-# optimization
+# Optimization
 # Energy
 ![equation](http://latex.codecogs.com/gif.latex? E(\\boldsymbol{x})= \\sum_{x=0}^m [f_i(\\boldsymbol{x})]^2 =\\|\\boldsymbol{F}(\\boldsymbol{x})\\|_2^2 \\qquad where \\qquad  \\boldsymbol{F}(\\boldsymbol{x}) = [f_1(\\boldsymbol{x}),...,f_m(\\boldsymbol{x})]^T )
 
