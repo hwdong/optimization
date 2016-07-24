@@ -3,9 +3,9 @@
 
 ![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{J}(\\boldsymbol{x}) =\\frac{\\partial\\boldsymbol{F}}{\\partial{\\boldsymbol{x}}} =  [\\frac{\\partial{f_1}}{\\partial{\\boldsymbol{x}}},...,\\frac{\\partial{f_m}}{\\partial{\\boldsymbol{x}}}]^T  )
 
-![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{F}(\\boldsymbol{x}) =\\boldsymbol{F}(\\boldsymbol{x}_0) +\\boldsymbol{J}(\\boldsymbol{x}_0) * \\delta_{\\boldsymbol{x}}  )
+![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{F}(\\boldsymbol{x}) =\\boldsymbol{F}(\\boldsymbol{x}_0) +\\boldsymbol{J}(\\boldsymbol{x}_0) \\cdot \\delta_{\\boldsymbol{x}}  )
 
 ![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{Grad}_{\\boldsymbol{E}}(\\boldsymbol{x}) = \\frac{\\partial\\boldsymbol{E}}{\\partial{\\boldsymbol{x}}} =\\frac{\\partial{(\\boldsymbol{F}^T\\cdot\\boldsymbol{F}} )}{\\partial{\\boldsymbol{x}}} =  \\boldsymbol{F}^T\\cdot\\frac{\\partial\\boldsymbol{F}}{\\partial{\\boldsymbol{x}}} 
-= [f_1(\\boldsymbol{x})* \\frac{\\partial{f_1}}{\\partial{\\boldsymbol{x}}}+...+f_m(\\boldsymbol{x})*\\frac{\\partial{f_m}}{\\partial{\\boldsymbol{x}}}] )
+= [f_1(\\boldsymbol{x})\\cdot\\frac{\\partial{f_1}}{\\partial{\\boldsymbol{x}}}+...+f_m(\\boldsymbol{x})\\cdot\\frac{\\partial{f_m}}{\\partial{\\boldsymbol{x}}}] )
 
 
