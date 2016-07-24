@@ -3,7 +3,7 @@
 
 ![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{J}(\\boldsymbol{x}) =\\frac{\\partial\\boldsymbol{F}}{\\partial{\\boldsymbol{x}}} =  [\\frac{\\partial{f_1}}{\\partial{\\boldsymbol{x}}},...,\\frac{\\partial{f_m}}{\\partial{\\boldsymbol{x}}}]^T  )
 
-![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{F}(\\boldsymbol{x}) =\\boldsymbol{F}(\\boldsymbol{x_0}) +\\boldsymbol{J}(\\boldsymbol{x}) * \\delta_\\boldsymbol{x}  )
+![equation](http://latex.codecogs.com/gif.latex? \\boldsymbol{F}(\\boldsymbol{x}) =\\boldsymbol{F}(\\boldsymbol{x}_0) +\\boldsymbol{J}(\\boldsymbol{x}) * \\delta_\\boldsymbol{x}  )
 
 
 
